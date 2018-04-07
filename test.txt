@@ -1,2 +1,4 @@
 this is test git version
 git is free software
+
+git has a mutable indexes call stage
